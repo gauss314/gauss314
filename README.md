@@ -1,10 +1,7 @@
 ## 🚀 GitHub Stats & Language Breakdown
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauss314&layout=donut&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauss314&langs_count=8&theme=dark&layout=compact&card_width=440)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauss314&show_icons=true&count_private=true&theme=dark&hide_border=true)
-
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=gauss314&theme=dark&hide_border=true&border_radius=6&card_width=600)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauss314&show_icons=true&theme=dark&hide=prs,issues,contribs&include_all_commits=false&ring_color=2f80ed&card_width=440)
